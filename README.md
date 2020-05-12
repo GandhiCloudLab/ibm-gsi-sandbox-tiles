@@ -43,14 +43,6 @@ Here are the steps to run the tiles.
 
 It creates the default resource groups.
 
-### 1. Run Tile - Resource Group
-
-1. Click on `Resource Group` tile listed in the `Sandbox-Catalog` private catalog 
-
-2. It shows the tile details page.  Click on `Install` link. 
-
-It creates the default resource groups.
-
 ### 2. Install your clusters.
 
 Install the required clusters.
@@ -63,8 +55,7 @@ Install the required clusters.
 
 It creates the default access groups and assign access polcies.
 
-
-### 3. Run Tile - Assign User to Access Group
+### 4. Run Tile - Assign User to Access Group
 
 1. Click on `Assign User to Access Group` tile listed in the `Sandbox-Catalog` private catalog 
 
