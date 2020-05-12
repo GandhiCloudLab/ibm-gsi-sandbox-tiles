@@ -35,7 +35,7 @@ Here are the steps to view the Private Catalog tiles.
 </details>
 
 
-## 2. Run Tile 
+## 2. Run Tiles
 
 Here are the steps to run the tiles.
 
@@ -179,7 +179,7 @@ By default 5 clusters are installed, one for each cloud pak.
 
 </details>
 
-# 5. References
+# 4. References
 
 #### How to create Private Catalog tiles.
 
