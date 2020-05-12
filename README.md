@@ -17,7 +17,7 @@ This project provides the below private catalog tiles which would create the req
     Assign Users to Access Group
 ```
 
-<img src="images/01-sandbox-arch.png" width="900" title="Issue" bordercolor=green>
+<img src="images/tiles.png" width="900" title="Issue" bordercolor=green>
 
 
 ## 1. View Private Catalog Tiles. 
