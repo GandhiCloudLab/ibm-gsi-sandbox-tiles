@@ -24,22 +24,16 @@ This project provides the below private catalog tiles which would create the req
 
 Here are the steps to view the Private Catalog tiles.
 
-<details><summary>CLICK ME</summary>
-
 1. Click on `Catalog` in ibm cloud web console.
 
 2. Choose the `Sandbox-Catalog` menu.
 
 3. It shows the 3 tiles that we created.
 
-</details>
-
 
 ## 2. Run Tiles
 
 Here are the steps to run the tiles.
-
-<details><summary>CLICK ME</summary>
 
 ### 1. Run Tile - Resource Group
 
@@ -81,8 +75,6 @@ You can enter email ids in `admins` and `users` section.
 3. Click on `Install` link. 
 
 It assigns users to the access groups.
-
-</details>
 
 
 # 3. IAM Objects
