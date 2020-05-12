@@ -87,19 +87,15 @@ It assigns users to the access groups.
 
 # 3. IAM Objects
 
-The below diagram describes the various objects created by these tiles.
-
 <details><summary>CLICK ME</summary>
 
-<img src="images/01-sandbox-arch.png" width="900" title="Issue" bordercolor=green>
+The below diagram describes the various objects created by these tiles.
 
-</details>
+<img src="images/01-sandbox-arch.png" width="900" title="Issue" bordercolor=green>
 
 Here is the list of objects created by default.
 
 ### Resource Groups
-
-<details><summary>CLICK ME</summary>
 
 The below resource groups are cretaed. 
 
@@ -114,11 +110,7 @@ IBM Cloud IAM screen with the created resource groups
 
 <img src="images/02-iam-resource-group.png" width="656" title="Resource Group" bordercolor=blue>
 
-</details>
-
 ### Access Groups
-
-<details><summary>CLICK ME</summary>
 
 The below access Groups are cretaed. 
 
@@ -136,12 +128,7 @@ IBM Cloud IAM screen with the created access groups
 
 <img src="images/02-iam-access-groups.png" width="656" title="Access Group" bordercolor=blue>
 
-</details>
-
-
 ### Access Policies
-
-<details><summary>CLICK ME</summary>
 
 The below access Policies are cretaed. 
 
@@ -179,11 +166,7 @@ The figures above shows the default access policies added to the access group `C
 
 The figures above shows the default access policies added to the access group `APPDEV-USERS`.
 
-</details>
-
 ### Clusters
-
-<details><summary>CLICK ME</summary>
 
 By default 5 clusters are installed, one for each cloud pak.
 ```
@@ -200,7 +183,7 @@ By default 5 clusters are installed, one for each cloud pak.
 
 #### How to create Private Catalog tiles.
 
-How to create private catalog and tiles are detailed explained in the below docmentation.
+How to create private catalog and tiles are detailed in the below docmentation.
 
 https://github.com/GandhiCloudLab/ibm-cloud-private-catalog-iam-ag
 
