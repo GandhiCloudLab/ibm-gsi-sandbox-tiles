@@ -1,1 +1,2 @@
-# ibm-gsi-sandbox-tiles
+# GSI Sandbox - Private Catalog tiles
+
