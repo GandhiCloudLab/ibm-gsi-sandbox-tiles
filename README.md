@@ -28,16 +28,9 @@ Here are the steps to view the Private Catalog tiles.
 
 1. Click on `Catalog` in ibm cloud web console.
 
-<br></br>
-
-2. Choose the `Sangbox-Catalog` menu.
-
-<br></br>
+2. Choose the `Sandbox-Catalog` menu.
 
 3. It shows the 3 tiles that we created.
-
-<img src="images/RunTile-03-tiles.png" width="600">
-<br></br>
 
 </details>
 
@@ -52,52 +45,34 @@ Here are the steps to run the tiles.
 
 1. Click on `Resource Group` tile listed in the `Sandbox-Catalog` private catalog 
 
-<br></br>
-
 2. It shows the tile details page.  Click on `Install` link. 
 
 It creates the default resource groups.
-
-<br></br>
-
-<br></br>
 
 ### 1. Run Tile - Resource Group
 
 1. Click on `Resource Group` tile listed in the `Sandbox-Catalog` private catalog 
 
-<br></br>
-
 2. It shows the tile details page.  Click on `Install` link. 
 
 It creates the default resource groups.
-
-<br></br>
 
 ### 2. Install your clusters.
 
 Install the required clusters.
 
-<br></br>
-
 ### 3. Run Tile - Access Group and Access Policies
 
 1. Click on `Access Group and Access Policies` tile listed in the `Sandbox-Catalog` private catalog 
-
-<br></br>
 
 2. It shows the tile details page.  Click on `Install` link. 
 
 It creates the default access groups and assign access polcies.
 
-<br></br>
-
 
 ### 3. Run Tile - Assign User to Access Group
 
 1. Click on `Assign User to Access Group` tile listed in the `Sandbox-Catalog` private catalog 
-
-<br></br>
 
 2. It shows the tile details page.
 
@@ -106,8 +81,6 @@ You can enter email ids in `admins` and `users` section.
 3. Click on `Install` link. 
 
 It assigns users to the access groups.
-
-<br></br>
 
 </details>
 
