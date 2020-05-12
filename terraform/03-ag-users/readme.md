@@ -1,4 +1,4 @@
-# Assign users to Access Grous
+# Assign users to Access Groups
 
 The objective of the tile is to assign users (email-ids) to the Access Groups in IAM using terraform scripts.
 
